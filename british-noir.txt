@@ -1,0 +1,9 @@
+  Movie (Year)                            Rating
+Green for Danger (1946)                    7.4
+Odd Man Out (1947)                         7.6
+Obsession (1949)                           7.3
+The Small Back Room (1949)                 7.1
+The Woman in Question (1950)               6.8
+Hell Drivers (1957)                        7.2
+Time Without Pity (1957)                   6.8
+All Night Long (1962)                      7.1

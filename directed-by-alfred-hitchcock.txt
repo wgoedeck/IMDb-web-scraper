@@ -1,0 +1,8 @@
+  Movie (Year)                            Rating
+Foreign Correspondent (1940)               7.4
+The Lady Vanishes (1938)                   7.7
+Young and Innocent (1937)                  6.8
+Sabotage (1936)                            7.0
+The 39 Steps (1935)                        7.6
+The Man Who Knew Too Much (1934)           6.7
+Downhill (1927)                            6.0
