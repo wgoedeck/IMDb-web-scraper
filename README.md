@@ -84,6 +84,8 @@ Each fetched movie's release year is compared to the desired one from the Criter
 
 and the next movie in the Criterion Channel's list is examined. There are a few error-trapping lines in the **selection_choice()** function since anomalies can occur now and then. The movie title, year of release, movie ID, and rating are then appended to the movies specifications list. 
 
+Recently, movie ratings for all movies submitted to the IMDB site would not return, so I reiterated the process for movies with no return rating. I loop through seven times now, breaking out of the loop when all the ratings return. 
+
 Next, the movie results are formatted and output to a file, with the function **output_ratings(movies_specs_list, filename)**, *filename* specifies the destination to write to. For the *British noir* example, the output is: 
 
       Movie (Year)                             Rating
